@@ -9,7 +9,7 @@ Gem::Specification.new do |s|
   s.version     = Jgdc::Rails::VERSION
   s.authors     = ["mrdShinse"]
   s.email       = ["shinse.tanaka@gmail.com"]
-  s.homepage    = "TODO"
+  s.homepage    = "https://github.com/mrdShinse/jgdc-rails"
   s.summary     = "Summary of Jgdc::Rails."
   s.description = "Description of Jgdc::Rails."
   s.license     = "MIT"
